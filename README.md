@@ -7,14 +7,29 @@
 - B.S., Agricultural Engineering | Hamelmalo Agricultural College (_currently_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Assistant Team Manager (_Oct 2017 - Feb 2020_)**
+- Assessing forecast and analysis internal and external factors affecting the company and reviewing strategic plan accordingly
+- Assign and organize the employees to implement planned tasks
+- Designing and Installing drip and sprinkler irrigation system
+- Implementation of integrated farming
+- Monitor and control project implementation process
+- oversee the implementation of different projects
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+**Android App Developer Freelancer (_Feb 2018 - May 2018_)**
+- The Android mobile app was developed for the purpose of the Graduating day commencement and the app function is to show the pictures of each graduate within their department and some of their special 
+  moments based on their departments and the app was sponsored by the bulletin committee of the graduates in which I was also a member of that bulletin committee.
+  
+**Electronic Repair Technician (_Jul 2014 - Oct 2016_)**
+- Diagnosing and troubleshooting hardware and software issues of electronic devices, such as computers, smartphones, tablets, TVs, and other consumer 
+  electronics then able to identify the source of problems with electronic devices, 
+  whether they are related to hardware or software issues, and use appropriate tools 
+  to diagnose the issue. Once the source of the problem is identified, then replace 
+or repair the faulty parts to get the device back to working condition. This may 
+involve soldering, replacing circuit boards, or other repairs. Overall, as an 
+electronic repair technician, I played a critical role in keeping electronic devices 
+in good working order, and helping people stay connected and productive in their 
+personal and professional lives
+  
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
