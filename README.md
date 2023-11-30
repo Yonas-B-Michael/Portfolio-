@@ -1,14 +1,29 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Excel, Java
+#### Technical Skills: Python, SQL, Excel, Java, Tableau, IBM Analytic Cognos, Microsoft Power BI, Android Studio
+#### Soft Skills: Problem-Solving, Innovation and Creative Thinking, Performance Optimization, Technical Leadership, Analytical skills, Research methods and Report writing, Teamwork
 
 ## Education							       		
 - M.S., Management Engineering	 | University of Salento (_  July 2018_)	 			        		
 - B.S., Agricultural Engineering | Hamelmalo Agricultural College (_currently_)
 
 ## Work Experience
+
+**Financial Data Analyst Internship (_May 2023 - Jul 2023_)**
+- Assessing forecast and analysis of internal and external factors
+- Identifying investments with huge growth potential.
+- Financial data analysis.
+- Preparing a report based on technical analysis, and fundamental analysis of specific markets.
+- Balance sheet analysis.
+- Charting with using professional tools for data analysis.
+- Preparing trading signals for our clients
+- Google Trend Analysis & Collecting data with premium tools.
+- Screening stock market and market research
+- Publishing new trading ideas on the company's social media profiles
+
 **Assistant Team Manager (_Oct 2017 - Feb 2020_)**
-- Assessing forecast and analysis internal and external factors affecting the company and reviewing strategic plan accordingly
+- Assessing forecast and analysis internal and external factors affecting the company 
+  and reviewing strategic plan accordingly
 - Assign and organize the employees to implement planned tasks
 - Designing and Installing drip and sprinkler irrigation system
 - Implementation of integrated farming
@@ -16,54 +31,62 @@
 - oversee the implementation of different projects
 
 **Android App Developer Freelancer (_Feb 2018 - May 2018_)**
-- The Android mobile app was developed for the purpose of the Graduating day commencement and the app function is to show the pictures of each graduate within their department and some of their special 
-  moments based on their departments and the app was sponsored by the bulletin committee of the graduates in which I was also a member of that bulletin committee.
-  
+- Developed an Android mobile app exclusively for the Graduating Day Commencement event.
+- App functionality focused on showcasing individual graduate pictures within their 
+  respective departments.
+- Featured highlights of special moments for each graduate, organized by departments.
+- Secured sponsorship from the Bulletin Committee of the graduates to support the app 
+  development.
+- Actively contributed as a member of the Bulletin Committee, enhancing collaboration 
+  and successful project execution.
+
 **Electronic Repair Technician (_Jul 2014 - Oct 2016_)**
-- Diagnosing and troubleshooting hardware and software issues of electronic devices, such as computers, smartphones, tablets, TVs, and other consumer 
-  electronics then able to identify the source of problems with electronic devices, 
-  whether they are related to hardware or software issues, and use appropriate tools 
-  to diagnose the issue. Once the source of the problem is identified, then replace 
-or repair the faulty parts to get the device back to working condition. This may 
-involve soldering, replacing circuit boards, or other repairs. Overall, as an 
-electronic repair technician, I played a critical role in keeping electronic devices 
-in good working order, and helping people stay connected and productive in their 
-personal and professional lives
+- Diagnosed and troubleshooted hardware and software issues in a diverse range of 
+  electronic devices, including computers, smartphones, tablets, TVs, and other consumer 
+  electronics.
+- Proficiently identified the source of problems, distinguishing between hardware and 
+  software issues, utilizing appropriate diagnostic tools.
+- Executed repairs, including soldering, circuit board replacement, and other technical 
+  fixes, ensuring the restoration of faulty electronic devices to optimal working 
+  condition.
+- Played a pivotal role in maintaining the functionality of electronic devices, 
+  contributing to individuals' connectivity and productivity in both personal and 
+  professional contexts.
   
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Automated Grain Storage House
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Senior Research Project: It is a system that uses a microcontroller to control the environment inside a grain storage house. The system typically includes sensors to measure temperature, humidity, and carbon dioxide levels, as well as fans or heaters to adjust the environmental conditions as needed. The Project also include an LCD display to allow the user to monitor the environmental conditions and adjust if needed. Additionally, the system can be configured to send alerts or notifications if there are any changes in the environmental conditions that could potentially damage the grain.
+Overall, an automated grain storage house with an Arduino microprocessor provides a cost-effective and efficient solution for monitoring and controlling the environment inside a grain storage house, which can help to prevent spoilage and maintain the quality of the grain over time. 
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Developing AgroRobotics for farm surveillance
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Using open-source micro controllers such as Arduino, Raspberry Pi and other tools and boards we develop the device which measures three of the most important and basic parameters for growth of plants namely soil moisture, temperature, and humidity and equipped with a camera in which you can control remotely all the activities from your console.          
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Honours and Awards 
+- Awarded full scholarship, accommodation, and stipend for Master's degree in Management 
+  Engineering at the University of Salento for academic excellence.
+- Certificate Of Appreciation - Dean Prof. Woldeamlak Araia (For Contribution and 
+  participation in preparing android application for bulletin graduation day)
+
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. **Automated-Granary-Monitoring-And-Controlling-System-Suitable-For-The-Sub-saharan-Region**
+Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Maxim Nikolaevich Davydkin, Shaji James P. (Automated Granary Monitoring and Controlling System Suitable For The Sub-Saharan Region,) International Journal Of Scientific & Technology Research. Vol.8, 1943-1951, Issue 12, December 2019, (ISSN 2277-8616).
+[http://www.ijstr.org/final-print/dec2019/Automated-Granary-Monitoring-And-Controlling-System-Suitable-For-The-Sub-saharan-Region.pdf]
+
+2. **Automation-and-Robotics-for-crisis-management-of-agricultural-in-developing-countries**
+Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Aravind James, Yecalo Michael Debrezion, P.shaji James, Suresh Jayaraman. (Automation and Robotics for Crisis Management of Agriculture in Developing Countries)
+[https://www.researchgate.net/publication/341525554_Automation_and_Robotics_for_Crisis_Management_of_Agriculture_in_Developing_Countries]    
+
 
 - [Data Science Blog](https://medium.com/@shawhin)
