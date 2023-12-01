@@ -1,7 +1,7 @@
-# Data Scientist
+# Data Analyst 
 
 #### Technical Skills: Python, SQL, Excel, Java, Tableau, IBM Analytic Cognos, Microsoft Power BI, Android Studio
-#### Soft Skills: Problem-Solving, Innovation and Creative Thinking, Performance Optimization, Technical Leadership, Analytical skills, Research methods and Report writing, Teamwork
+#### Soft Skills:      Problem-Solving, Innovation and Creative Thinking, Performance Optimization, Technical Leadership, Analytical skills                           
 
 ## Education							       		
 - M.S., Management Engineering	 | University of Salento (_  Currently_)	 			        		
@@ -64,7 +64,7 @@ Overall, an automated grain storage house with an Arduino microprocessor provide
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Developing AgroRobotics for farm surveillance
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Publication]()
 
 Using open-source micro controllers such as Arduino, Raspberry Pi and other tools and boards we develop the device which measures three of the most important and basic parameters for growth of plants namely soil moisture, temperature, and humidity and equipped with a camera in which you can control remotely all the activities from your console.          
 
@@ -77,7 +77,7 @@ Using open-source micro controllers such as Arduino, Raspberry Pi and other tool
   participation in preparing android application for bulletin graduation day)
 
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Data Science YouTube]()
 
 ## Publications
 1. **Automated-Granary-Monitoring-And-Controlling-System-Suitable-For-The-Sub-saharan-Region**
@@ -89,4 +89,4 @@ Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Aravind James, Yecalo
 [https://www.researchgate.net/publication/341525554_Automation_and_Robotics_for_Crisis_Management_of_Agriculture_in_Developing_Countries]    
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog]()
