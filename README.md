@@ -4,7 +4,7 @@
 #### Soft Skills:      Problem-Solving, Innovation and Creative Thinking, Performance Optimization, Technical Leadership, Analytical skills                           
 
 ## Education							       		
-- M.S., Management Engineering	 | University of Salento (_  Currently_)	 			        		
+- M.S., Management Engineering	 | University of Salento          (_  Currently_)	 			        		
 - B.S., Agricultural Engineering | Hamelmalo Agricultural College (_  July 2018_)
 
 ## Work Experience
