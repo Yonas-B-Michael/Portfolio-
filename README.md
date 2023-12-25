@@ -84,7 +84,7 @@ Using open-source micro controllers such as Arduino, Raspberry Pi and other tool
 Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Maxim Nikolaevich Davydkin, Shaji James P. (Automated Granary Monitoring and Controlling System Suitable For The Sub-Saharan Region,) International Journal Of Scientific & Technology Research. Vol.8, 1943-1951, Issue 12, December 2019, (ISSN 2277-8616).
 [http://www.ijstr.org/final-print/dec2019/Automated-Granary-Monitoring-And-Controlling-System-Suitable-For-The-Sub-saharan-Region.pdf]
 
-2.##**Automation-and-Robotics-for-crisis-management-of-agricultural-in-developing-countries**
+2. ##**Automation-and-Robotics-for-crisis-management-of-agricultural-in-developing-countries**
 Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Aravind James, Yecalo Michael Debrezion, P.shaji James, Suresh Jayaraman. (Automation and Robotics for Crisis Management of Agriculture in Developing Countries)
 [https://www.researchgate.net/publication/341525554_Automation_and_Robotics_for_Crisis_Management_of_Agriculture_in_Developing_Countries]    
 
