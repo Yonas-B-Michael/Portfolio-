@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Technical Skills: Python, SQL, Excel, Java, Tableau, IBM Analytic Cognos, Microsoft Power BI, Android Studio
+#### Technical Skills: Python, SQL, Excel, Java, Tableau, IBM Analytic Cognos, Microsoft Power BI
 #### Soft Skills:      Problem-Solving, Innovation and Creative Thinking, Performance Optimization, Technical Leadership, Analytical skills                           
 
 ## Education							       		
@@ -22,40 +22,34 @@
 - Publishing new trading ideas on the company's social media profiles
 
 **Assistant Team Manager (_Oct 2017 - Feb 2020_)**
-- Assessing forecast and analysis internal and external factors affecting the company 
-  and reviewing strategic plan accordingly
-- Assign and organize the employees to implement planned tasks
-- Designing and Installing drip and sprinkler irrigation system
-- Implementation of integrated farming
-- Monitor and control project implementation process
-- oversee the implementation of different projects
+- Conducting regular performance appraisals for staff, providing feedback on strengths and weaknesses.
+- Organizing and delegating daily tasks for team members, monitoring progress throughout the day.
+- Assessing existing systems and procedures regularly to identify areas for improvement.
+- Assessing forecast and analysis of internal and external factors affecting the company and reviewing strategic plans accordingly
+- Assigning and organizing the employees to implement planned tasks.
+- Implementation of integrated farming, Monitoring and controlling project implementation process.
+- Oversee the implementation of different projects.
+- Utilizing data analysis and reporting to track team performance and make recommendations.
+- Utilizing strong leadership skills to motivate team members to reach goals set by management.
 
 **Android App Developer Freelancer (_Feb 2018 - May 2018_)**
-- Developed an Android mobile app exclusively for the Graduating Day Commencement event.
-- App functionality focused on showcasing individual graduate pictures within their 
-  respective departments.
-- Featured highlights of special moments for each graduate, organized by departments.
-- Secured sponsorship from the Bulletin Committee of the graduates to support the app 
-  development.
-- Actively contributed as a member of the Bulletin Committee, enhancing collaboration 
-  and successful project execution.
-
+- Collaborating with other developers to ensure efficient development of software modules.
+- Developing UI designs according to Material Design guidelines.
+- Designing, developing and implementing Android applications with Java, XML, and Android Studio.
+- Developing an Android mobile app exclusively for the Graduating Day Commencement event.
+- Featuring highlights of special moments for each graduate, organized by departments.
+  
 **Electronic Repair Technician (_Jul 2014 - Oct 2016_)**
-- Diagnosed and troubleshooted hardware and software issues in a diverse range of 
-  electronic devices, including computers, smartphones, tablets, TVs, and other consumer 
-  electronics.
-- Proficiently identified the source of problems, distinguishing between hardware and 
-  software issues, utilizing appropriate diagnostic tools.
-- Executed repairs, including soldering, circuit board replacement, and other technical 
-  fixes, ensuring the restoration of faulty electronic devices to optimal working 
-  condition.
-- Played a pivotal role in maintaining the functionality of electronic devices, 
-  contributing to individuals' connectivity and productivity in both personal and 
-  professional contexts.
+- Diagnosing and troubleshooting hardware and software issues in various electronic devices, including computers, smartphones, tablets, TVs, and other 
+  consumer electronics
+- Proficiently identified the source of problems, distinguishing between hardware and software issues, and utilizing appropriate diagnostic tools
+- Executing repairs, including soldering, circuit board replacement, and other technical fixes, ensuring the restoration of faulty electronic devices to
+  optimal working conditions
+- Playing a pivotal role in maintaining the functionality of electronic devices, contributing to individuals' connectivity and productivity in both personal
+  and professional contexts..
   
 ## Projects
 ### Automated Grain Storage House
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Senior Research Project: It is a system that uses a microcontroller to control the environment inside a grain storage house. The system typically includes sensors to measure temperature, humidity, and carbon dioxide levels, as well as fans or heaters to adjust the environmental conditions as needed. The Project also include an LCD display to allow the user to monitor the environmental conditions and adjust if needed. Additionally, the system can be configured to send alerts or notifications if there are any changes in the environmental conditions that could potentially damage the grain.
 Overall, an automated grain storage house with an Arduino microprocessor provides a cost-effective and efficient solution for monitoring and controlling the environment inside a grain storage house, which can help to prevent spoilage and maintain the quality of the grain over time. 
@@ -64,7 +58,6 @@ Overall, an automated grain storage house with an Arduino microprocessor provide
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Developing AgroRobotics for farm surveillance
-[Publication]()
 
 Using open-source micro controllers such as Arduino, Raspberry Pi and other tools and boards we develop the device which measures three of the most important and basic parameters for growth of plants namely soil moisture, temperature, and humidity and equipped with a camera in which you can control remotely all the activities from your console.          
 
@@ -88,5 +81,3 @@ Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Maxim Nikolaevich Dav
 Temesgen Belay Tedla, Joe Joe L. Bovas, **Yonas Berhane**, Aravind James, Yecalo Michael Debrezion, P.shaji James, Suresh Jayaraman. (Automation and Robotics for Crisis Management of Agriculture in Developing Countries)
 [https://www.researchgate.net/publication/341525554_Automation_and_Robotics_for_Crisis_Management_of_Agriculture_in_Developing_Countries]    
 
-
-- [Data Science Blog]()
