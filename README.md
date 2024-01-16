@@ -47,7 +47,15 @@
   optimal working conditions
 - Playing a pivotal role in maintaining the functionality of electronic devices, contributing to individuals' connectivity and productivity in both personal
   and professional contexts..
-  
+
+## Certification 
+-	Managing Big Data with MySQL, Duke University I Coursera
+-	Python Specialization, University of Michigan I Coursera
+-	Leverage Data Science for a More Agile Supply Chain, University of California, Irvine Division of Continuing Education I Coursera
+-	Project Management, PMI Southern Italy Chapter
+-	Pedagogy Certificate, Eritrea 
+-	Dreams and Teams Young Leader Program, British Council Professional Development Center, Asmara, Eritrea
+- Hardware and Electronic Equipment maintenance, Poly-Tech, Eritrea  
 ## Projects
 ### Automated Grain Storage House
 
