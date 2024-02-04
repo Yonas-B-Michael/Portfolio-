@@ -78,7 +78,6 @@ Using open-source micro controllers such as Arduino, Raspberry Pi and other tool
   participation in preparing android application for bulletin graduation day)
 
 
-- [Data Science YouTube]()
 
 ## Publications
 1. ##**Automated-Granary-Monitoring-And-Controlling-System-Suitable-For-The-Sub-saharan-Region**
