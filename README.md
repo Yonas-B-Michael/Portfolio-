@@ -1,36 +1,34 @@
 # Data Analyst 
 
-#### Technical Skills: Python, SQL, Excel, Java, Tableau, IBM Analytic Cognos, Microsoft Power BI
+#### Technical Skills: Python, SQL, Excel, Tableau, IBM Analytic Cognos, Microsoft Power BI
 #### Soft Skills:      Problem-Solving, Innovation and Creative Thinking, Performance Optimization, Technical Leadership, Analytical skills                           
 
 ## Education							       		
-- M.S., Management Engineering	 | University of Salento          (_  Currently_)	 			        		
+- M.S., Management Engineering	 | University of Salento          (_  July 2024_)	 			        		
 - B.S., Agricultural Engineering | Hamelmalo Agricultural College (_  July 2018_)
 
 ## Work Experience
 
-**Financial Data Analyst Internship (_May 2023 - Jul 2023_)**
-- Assessing forecast and analysis of internal and external factors
-- Identifying investments with huge growth potential.
-- Financial data analysis.
-- Preparing a report based on technical analysis, and fundamental analysis of specific markets.
-- Balance sheet analysis.
-- Charting with using professional tools for data analysis.
-- Preparing trading signals for our clients
-- Google Trend Analysis & Collecting data with premium tools.
-- Screening stock market and market research
-- Publishing new trading ideas on the company's social media profiles
+**Data Analyst Internship (_May 2023 - Jul 2023_)**
+• Analyzing internal and external data to forecast trends and support strategic decision-making.
+• Identifying high-growth opportunities through data-driven market analysis.
+• Preparing reports combining data modeling, technical analysis, and fundamental insights.
+• Conducting financial data analysis, including balance sheet reviews and key performance metrics.
+• Using advanced data visualization tools to identify patterns and trends.
+• Developing predictive models and algorithms to generate actionable insights.
+• Monitoring market trends through data mining and research analytics.
+• Publishing data-driven insights and strategies to boost engagement across digital platforms.
 
 **Assistant Team Manager (_Oct 2017 - Feb 2020_)**
-- Conducting regular performance appraisals for staff, providing feedback on strengths and weaknesses.
-- Organizing and delegating daily tasks for team members, monitoring progress throughout the day.
-- Assessing existing systems and procedures regularly to identify areas for improvement.
-- Assessing forecast and analysis of internal and external factors affecting the company and reviewing strategic plans accordingly
-- Assigning and organizing the employees to implement planned tasks.
-- Implementation of integrated farming, Monitoring and controlling project implementation process.
-- Oversee the implementation of different projects.
-- Utilizing data analysis and reporting to track team performance and make recommendations.
-- Utilizing strong leadership skills to motivate team members to reach goals set by management.
+• Leveraging data-driven insights to conduct performance evaluations and improve team outcomes.
+• Optimizing workflows by using data analysis to track and monitor daily task progress.
+• Analyzing systems and processes to identify improvement opportunities through data insights.
+• Utilizing data analytics to assess internal and external factors for strategic planning and forecasting.
+• Applying data-driven task delegation to enhance project execution and efficiency.
+• Tracking and ensuring successful project implementation using data.
+• Analyzing team performance with reporting tools to provide actionable insights and 
+  recommendations.
+• Combining leadership with data analytics to drive team performance and meet objectives 
 
 **Android App Developer Freelancer (_Feb 2018 - May 2018_)**
 - Collaborating with other developers to ensure efficient development of software modules.
