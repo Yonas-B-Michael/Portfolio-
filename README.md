@@ -10,25 +10,25 @@
 ## Work Experience
 
 **Data Analyst Internship (_May 2023 - Jul 2023_)**
-• Analyzing internal and external data to forecast trends and support strategic decision-making.
-• Identifying high-growth opportunities through data-driven market analysis.
-• Preparing reports combining data modeling, technical analysis, and fundamental insights.
-• Conducting financial data analysis, including balance sheet reviews and key performance metrics.
-• Using advanced data visualization tools to identify patterns and trends.
-• Developing predictive models and algorithms to generate actionable insights.
-• Monitoring market trends through data mining and research analytics.
-• Publishing data-driven insights and strategies to boost engagement across digital platforms.
+- Analyzing internal and external data to forecast trends and support strategic decision-making.
+- Identifying high-growth opportunities through data-driven market analysis.
+- Preparing reports combining data modeling, technical analysis, and fundamental insights.
+- Conducting financial data analysis, including balance sheet reviews and key performance metrics.
+- Using advanced data visualization tools to identify patterns and trends.
+- Developing predictive models and algorithms to generate actionable insights.
+- Monitoring market trends through data mining and research analytics.
+- Publishing data-driven insights and strategies to boost engagement across digital platforms.
 
 **Assistant Team Manager (_Oct 2017 - Feb 2020_)**
-• Leveraging data-driven insights to conduct performance evaluations and improve team outcomes.
-• Optimizing workflows by using data analysis to track and monitor daily task progress.
-• Analyzing systems and processes to identify improvement opportunities through data insights.
-• Utilizing data analytics to assess internal and external factors for strategic planning and forecasting.
-• Applying data-driven task delegation to enhance project execution and efficiency.
-• Tracking and ensuring successful project implementation using data.
-• Analyzing team performance with reporting tools to provide actionable insights and 
+- Leveraging data-driven insights to conduct performance evaluations and improve team outcomes.
+- Optimizing workflows by using data analysis to track and monitor daily task progress.
+- Analyzing systems and processes to identify improvement opportunities through data insights.
+- Utilizing data analytics to assess internal and external factors for strategic planning and forecasting.
+- Applying data-driven task delegation to enhance project execution and efficiency.
+- Tracking and ensuring successful project implementation using data.
+- Analyzing team performance with reporting tools to provide actionable insights and 
   recommendations.
-• Combining leadership with data analytics to drive team performance and meet objectives 
+- Combining leadership with data analytics to drive team performance and meet objectives 
 
 **Android App Developer Freelancer (_Feb 2018 - May 2018_)**
 - Collaborating with other developers to ensure efficient development of software modules.
